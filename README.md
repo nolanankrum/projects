@@ -1,4 +1,4 @@
-# <rock-paper-scissors>
+# rock-paper-scissors
 # Discription
 # I created this project for my internship during the summer of 2022.
 # I built this project inorder to pratice with Python, the languge used to create this program.
