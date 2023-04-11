@@ -1,9 +1,20 @@
 # rock-paper-scissors
-## Discription
- I created this project for my internship during the summer of 2022.
- I built this project inorder to pratice with Python, the languge used to create this program.
- This program allowed the user to play with the computer in rock-paper-scissors out of the best of three games.
- I learned how to import the random/math function, how to make functions and creating loops, and prompting user(you or I) for input.
+
+## Description
+Rock-paper-scissors python application simulates a game of rock-paper-scissors.
+
+## Technologies
+[Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
+
+## Installation
+1. Run the Python file on the command line.
+```
+Python rockpaperscissors.py
+```
+## Usage
+
+## Contributing
+
  Installation
  Download Viusal Studio Code, or any Integrated Development Learning Environment(IDLE).
  You can go to my GitHub https://github.com/nolanankrum/projects/edit/master/README.md and you can can copy/paste code, "fork" the code, or simply type the code line for line.
