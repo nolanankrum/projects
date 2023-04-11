@@ -1,6 +1,5 @@
 # rock-paper-scissors
 
-## Description
 Rock-paper-scissors python application simulates a game of rock-paper-scissors.
 
 ## Technologies
