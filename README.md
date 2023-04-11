@@ -9,11 +9,13 @@ Rock-paper-scissors python application simulates a game of rock-paper-scissors.
 ## Installation
 1. Run the Python file on the command line.
 ```
-Python rockpaperscissors.py
+python rockpaperscissors.py
 ```
 ## Usage
 
 ## Contributing
+* **Nolan Ankrum** - *Initial work* - [nolanankrum](https://github.com/nolanankrum/)
+
 
  Installation
  Download Viusal Studio Code, or any Integrated Development Learning Environment(IDLE).
