@@ -6,7 +6,7 @@ Rock-paper-scissors python application simulates a game of rock-paper-scissors.
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
 
 ## Installation
-1. Check version of Python you are in by entering
+1. Check version of Python you have.
 ```
 python -V
 ```
