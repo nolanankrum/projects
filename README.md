@@ -6,11 +6,16 @@ Rock-paper-scissors python application simulates a game of rock-paper-scissors.
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
 
 ## Installation
-1. Run the Python file on the command line.
+1. Check version of Python you are in by entering
+```
+python -V
+```
+2. Run the Python file on the command line.
 ```
 python rockpaperscissors.py
 ```
 ## Usage
+
 
 ## Contributing
 * **Nolan Ankrum** - *Initial work* - [nolanankrum](https://github.com/nolanankrum/)
@@ -18,7 +23,6 @@ python rockpaperscissors.py
 
  Installation
  Download Viusal Studio Code, or any Integrated Development Learning Environment(IDLE).
- You can go to my GitHub https://github.com/nolanankrum/projects/edit/master/README.md and you can can copy/paste code, "fork" the code, or simply type the code line for line.
  To run program in VS Code, click "Run Python File".
  To run with IDLE, click "Run".
  Usage
