@@ -15,6 +15,9 @@ python -V
 python rockpaperscissors.py
 ```
 ## Usage
+```
+What's your choice? 'r' for rock, 'p' for paper, 's' for scissors
+```
 
 
 ## Contributing
