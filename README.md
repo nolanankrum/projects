@@ -6,7 +6,7 @@ Rock-paper-scissors python application simulates a game of rock-paper-scissors.
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
 
 ## Installation
-1. Check version of Python you have.
+1. Check the version of Python you have.
 ```
 python -V
 ```
@@ -15,11 +15,21 @@ python -V
 python rockpaperscissors.py
 ```
 ## Usage
+1. When you run the program, you will be asked to enter 'r', 'p', or 's'.
 ```
 What's your choice? 'r' for rock, 'p' for paper, 's' for scissors
 ```
-
-
+2. You must enter 'r', 'p', or 's' inorder to either win, lose, or tie to the computer. 
+```
+You chose j and the computer chose r. You lost :(
+```
+```
+You chose r and the computer chose s. You won!
+```
+```
+It is a tie. You and the computer have both chosen r.
+```
+3. 
 ## Contributing
 * **Nolan Ankrum** - *Initial work* - [nolanankrum](https://github.com/nolanankrum/)
 
