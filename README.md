@@ -21,16 +21,19 @@ What's your choice? 'r' for rock, 'p' for paper, 's' for scissors
 ```
 ![userinput](https://user-images.githubusercontent.com/107952281/232849870-2d5d3409-c7c9-4a00-8bba-247189f5b81b.png)
 
-2. You must enter 'r', 'p', or 's' inorder to either win, lose, or tie to the computer. 
+2. You must enter 'r', 'p', or 's' inorder to either tie, win, or lose to the computer. 
+```
+It is a tie. You and the computer have both chosen r.
+```
+![tieingcpu](https://user-images.githubusercontent.com/107952281/232851044-f964cb83-4226-440f-b7ce-cd75cb5463ce.png)
+
 ```
 You chose j and the computer chose r. You lost :(
 ```
 ```
 You chose r and the computer chose s. You won!
 ```
-```
-It is a tie. You and the computer have both chosen r.
-```
+
 3. If you win, or lose to computer, then the program will display if you won, or lost out of three games.
 ```
  You have won the best of three games! What a champ :D
