@@ -19,6 +19,8 @@ python rockpaperscissors.py
 ```
 What's your choice? 'r' for rock, 'p' for paper, 's' for scissors
 ```
+![userinput](https://user-images.githubusercontent.com/107952281/232849870-2d5d3409-c7c9-4a00-8bba-247189f5b81b.png)
+
 2. You must enter 'r', 'p', or 's' inorder to either win, lose, or tie to the computer. 
 ```
 You chose j and the computer chose r. You lost :(
