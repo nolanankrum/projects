@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-Rock-paper-scissors python application simulates a game of rock-paper-scissors.
+This python application simulates a game of rock-paper-scissors. 
 
 ## Technologies
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
@@ -29,7 +29,12 @@ You chose r and the computer chose s. You won!
 ```
 It is a tie. You and the computer have both chosen r.
 ```
-3. 
+3. If you win, or lose to computer, then the program will display if you won, or lost out of three games.
+```
+ You have won the best of three games! What a champ :D
+```
+![winningtocpu](https://user-images.githubusercontent.com/107952281/232849131-112e65c0-4432-4db0-9a50-811b2d8ecfd5.png)
+
 ## Contributing
 * **Nolan Ankrum** - *Initial work* - [nolanankrum](https://github.com/nolanankrum/)
 
