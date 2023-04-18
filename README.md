@@ -28,11 +28,13 @@ It is a tie. You and the computer have both chosen r.
 ![tieingcpu](https://user-images.githubusercontent.com/107952281/232851044-f964cb83-4226-440f-b7ce-cd75cb5463ce.png)
 
 ```
-You chose j and the computer chose r. You lost :(
-```
-```
 You chose r and the computer chose s. You won!
 ```
+![beatingcpu](https://user-images.githubusercontent.com/107952281/232852186-85e9dd2e-fb01-46f6-a380-8dc02e791cab.png)
+```
+You chose j and the computer chose r. You lost :(
+```
+![losingcpu](https://user-images.githubusercontent.com/107952281/232852373-ad23d5cf-b216-4fc5-a1a3-b7e9f51cf09d.png)
 
 3. If you win, or lose to computer, then the program will display if you won, or lost out of three games.
 ```
