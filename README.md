@@ -49,3 +49,4 @@ Unfortunately, the computer has won the best of 3 games. Better luck next time!
 ## Contributing
 * **Nolan Ankrum** - *My work* - [nolanankrum](https://github.com/nolanankrum/)
 * **Kylie Ying** - *Orginal creater* - [kying18](https://github.com/kying18/rock-paper-scissors/blob/master/main.py)
+* **Kylie Ying's Youtube** - *Video over rock-paper-scissors program* - [KylieYYing](https://www.youtube.com/watch?v=CDw3oKV5arA)
