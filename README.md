@@ -36,8 +36,10 @@ You chose j and the computer chose r. You lost :(
 ```
 ![losingcpu](https://user-images.githubusercontent.com/107952281/232852373-ad23d5cf-b216-4fc5-a1a3-b7e9f51cf09d.png)
 
-Side note, you can still lose to the computer even by entering the appropriate letters. 
-
+(Side note, you can still lose to the computer even by entering the appropriate letters.)
+```
+You chose p and computer chose s. You lost :(
+```
 3. If you win, or lose to computer, then the program will display if you won, or lost out of three games.
 ```
  You have won the best of 3 games! What a champ :D
