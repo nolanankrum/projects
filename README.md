@@ -10,7 +10,7 @@ This recreated python application simulates a game of rock-paper-scissors. The t
 ```
 python -V
 ```
-2. Run the Python file on the command line with the .py extension.
+2. Run the Python file on the command line and don't forget the .py extension.
 ```
 python rockpaperscissors.py
 ```
