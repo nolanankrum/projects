@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-This python application simulates a game of rock-paper-scissors. The target auidence for this presentation could be towards programers, developers, or anyone interested.
+This recreated python application simulates a game of rock-paper-scissors. The target auidence for this presentation could be towards programers, developers, or anyone interested.
 
 ## Technologies
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
