@@ -42,7 +42,7 @@ You chose j and the computer chose r. You lost :(
 ```
 ![winningtocpu](https://user-images.githubusercontent.com/107952281/232849131-112e65c0-4432-4db0-9a50-811b2d8ecfd5.png)
 ```
-You have lost the best of three games. Better luck next time!
+Unfourtunatly, the computer has won the best of three games. Better luck next time!
 ```
 ![userlosing](https://user-images.githubusercontent.com/107952281/232852910-cae9b275-688f-4a7f-a3d1-bf50779866b4.png)
 
