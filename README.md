@@ -47,16 +47,5 @@ Unfortunately, the computer has won the best of 3 games. Better luck next time!
 ![userlosing](https://user-images.githubusercontent.com/107952281/232852910-cae9b275-688f-4a7f-a3d1-bf50779866b4.png)
 
 ## Contributing
-* **Nolan Ankrum** - *Initial work* - [nolanankrum](https://github.com/nolanankrum/)
-
-
- Installation
- Download Viusal Studio Code, or any Integrated Development Learning Environment(IDLE).
- To run program in VS Code, click "Run Python File".
- To run with IDLE, click "Run".
- Usage
- Your choices are "r" for scissors, "p" for paper and "s" for scissors
- You must enter "r", "p", or "s" in order to have a shot at winning.
- If you eneter "f" for example, the output would be "You chose f and the computer chose s. You lost :( ".
- If you lose, output would be "Unfortunately, the computer has won the best of 3 games. Better luck next time!"
- If you win, output will be "You have won the best of 3 games! What a champ :D".
+* **Nolan Ankrum** - *My work* - [nolanankrum](https://github.com/nolanankrum/)
+* **Kylie Yang** - *Orginal creater* - [kying18](https://github.com/kying18/rock-paper-scissors/blob/master/main.py)
