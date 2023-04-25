@@ -6,11 +6,12 @@ The goal of this recreated python application is to simulate a game of rock-pape
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
 
 ## Installation
-1. Check the version of Python you have.
+1. Download Visual Studio Code, or any Integrated Development and Learning Environment (IDLE).
+2. Check the version of Python you have within Visual Studio Code, or any Integrated Development and Learning Environment (IDLE) on the command line.
 ```
 python -V
 ```
-2. Run the Python file on the command line and don't forget the .py extension.
+3. Run the Python file on the command line and don't forget the .py extension.
 ```
 python rockpaperscissors.py
 ```
