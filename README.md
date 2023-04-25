@@ -32,18 +32,18 @@ You chose r and the computer chose s. You won!
 ```
 ![beatingcpu](https://user-images.githubusercontent.com/107952281/232852186-85e9dd2e-fb01-46f6-a380-8dc02e791cab.png)
 ```
-You chose j and the computer chose r. You lost :(
+You chose j and the computer chose r. You lost
 ```
 ![losingcpu](https://user-images.githubusercontent.com/107952281/232852373-ad23d5cf-b216-4fc5-a1a3-b7e9f51cf09d.png)
 
 (A side note, the computer is restricted to randomly choose only 'r', 'p', or 's', so you can still lose while entering 'r', 'p', or 's'. 
 ```
-You chose p and computer chose s. You lost :(
+You chose p and computer chose s. You lost 
 ```
 
 3. If you win, or lose to computer, then the program will display if you won, or lost out of three games.
 ```
- You have won the best of 3 games! What a champ :D
+ You have won the best of 3 games! What a champ 
 ```
 ![winningtocpu](https://user-images.githubusercontent.com/107952281/232849131-112e65c0-4432-4db0-9a50-811b2d8ecfd5.png)
 ```
