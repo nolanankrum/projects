@@ -41,8 +41,7 @@ You chose r and the computer chose s. You won!
 You chose j and the computer chose r. You lost
 ```
 ![losingcpu](https://user-images.githubusercontent.com/107952281/232852373-ad23d5cf-b216-4fc5-a1a3-b7e9f51cf09d.png)
-
-(A side note, the computer is restricted to randomly choose only 'r', 'p', or 's', so you can still lose while entering 'r', 'p', or 's')
+(A side note, the computer is restricted to randomly choose only 'r', 'p', or 's', so you can still lose while entering 'r', 'p', or 's')<br>
 <sub><sub>Ankrum, Nolan. "losingcpu."</sub></sub><br/>
 <sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232852373-ad23d5cf-b216-4fc5-a1a3-b7e9f51cf09d.png. Accessed 27 Apr. 2023.</sub></sub>
 ```
