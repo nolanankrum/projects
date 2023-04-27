@@ -21,8 +21,8 @@ python rockpaperscissors.py
 What's your choice? 'r' for rock, 'p' for paper, 's' for scissors
 ```
 ![userinput](https://user-images.githubusercontent.com/107952281/232849870-2d5d3409-c7c9-4a00-8bba-247189f5b81b.png)
-Ankrum, Nolan. "userinput."<br/>
-&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232849870-2d5d3409-c7c9-4a00-8bba-247189f5b81b.png.<br/>&emsp;Accessed 27 Apr. 2023.
+<sub><sub>Ankrum, Nolan. "userinput."</sub></sub><br/>
+<sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232849870-2d5d3409-c7c9-4a00-8bba-247189f5b81b.png. Accessed 27 Apr. 2023.</sub></sub>
    
 2. You must enter 'r', 'p', or 's' inorder to either tie, win, or lose to the computer. 
 ```
@@ -58,3 +58,4 @@ Unfortunately, the computer has won the best of 3 games. Better luck next time!
 * **Nolan Ankrum** - *My work* - [nolanankrum](https://github.com/nolanankrum/)
 * **Kylie Ying** - *Orginal creater* - [kying18](https://github.com/kying18/rock-paper-scissors/blob/master/main.py)
 * **Kylie Ying's YouTube** - *Video over rock-paper-scissors program* - [KylieYYing](https://www.youtube.com/watch?v=CDw3oKV5arA)
+(think of this as a works cited page)
