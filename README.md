@@ -29,7 +29,8 @@ What's your choice? 'r' for rock, 'p' for paper, 's' for scissors
 It is a tie. You and the computer have both chosen r.
 ```
 ![tieingcpu](https://user-images.githubusercontent.com/107952281/232851044-f964cb83-4226-440f-b7ce-cd75cb5463ce.png)
-
+<sub><sub>Ankrum, Nolan. "tieingcpu."</sub></sub><br/>
+<sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232851044-f964cb83-4226-440f-b7ce-cd75cb5463ce.png. Accessed 27 Apr. 2023.</sub></sub>
 ```
 You chose r and the computer chose s. You won!
 ```
