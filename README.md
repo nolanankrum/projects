@@ -63,4 +63,4 @@ Unfortunately, the computer has won the best of 3 games. Better luck next time!
 * **Kylie Ying** - *Orginal creater* - [kying18](https://github.com/kying18/rock-paper-scissors/blob/master/main.py)
 * **Kylie Ying's YouTube** - *Video over rock-paper-scissors program* - [KylieYYing](https://www.youtube.com/watch?v=CDw3oKV5arA)
 
-(think of this as a works cited page Dr. Hogan, I will also delete this before the finished product)
+(think of this as a works cited page Dr. Hogan. This gives credit to Kylie Ying(orginal creater), and I will also delete this before the finished product)
