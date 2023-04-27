@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-The goal of this recreated python application is to simulate a game of rock-paper-scissors. The target auidence for this presentation could be towards programers, developers, or anyone interested.
+The goal of this recreated python application by Kylie Ying is to simulate a game of rock-paper-scissors. The target auidence for this presentation could be towards programers, developers, or anyone interested.
 
 ## Technologies
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
