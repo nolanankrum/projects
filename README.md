@@ -35,6 +35,8 @@ It is a tie. You and the computer have both chosen r.
 You chose r and the computer chose s. You won!
 ```
 ![beatingcpu](https://user-images.githubusercontent.com/107952281/232852186-85e9dd2e-fb01-46f6-a380-8dc02e791cab.png)
+<sub><sub>Ankrum, Nolan. "beatingcpu."</sub></sub><br/>
+<sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232852186-85e9dd2e-fb01-46f6-a380-8dc02e791cab.png. Accessed 27 Apr. 2023.</sub></sub>
 ```
 You chose j and the computer chose r. You lost
 ```
