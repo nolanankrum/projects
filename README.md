@@ -53,11 +53,14 @@ You chose p and computer chose s. You lost
  You have won the best of 3 games! What a champ 
 ```
 ![winningtocpu](https://user-images.githubusercontent.com/107952281/232849131-112e65c0-4432-4db0-9a50-811b2d8ecfd5.png)
+<sub><sub>Ankrum, Nolan. "winningtocpu."</sub></sub><br/>
+<sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232849131-112e65c0-4432-4db0-9a50-811b2d8ecfd5.png. Accessed 27 Apr. 2023.</sub></sub>
 ```
 Unfortunately, the computer has won the best of 3 games. Better luck next time!
 ```
 ![userlosing](https://user-images.githubusercontent.com/107952281/232852910-cae9b275-688f-4a7f-a3d1-bf50779866b4.png)
-
+<sub><sub>Ankrum, Nolan. "userlosing."</sub></sub><br/>
+<sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232852910-cae9b275-688f-4a7f-a3d1-bf50779866b4.png. Accessed 27 Apr. 2023.</sub></sub>
 ## Contributing
 * **Nolan Ankrum** - *My work* - [nolanankrum](https://github.com/nolanankrum/)
 * **Kylie Ying** - *Orginal creater* - [kying18](https://github.com/kying18/rock-paper-scissors/blob/master/main.py)
