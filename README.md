@@ -1,13 +1,13 @@
 # rock-paper-scissors
 
-The goal of this recreated python application by Kylie Ying is to simulate a game of rock-paper-scissors. The target auidence for this presentation could be towards programers, developers, or anyone interested.
+The goal of this recreated python application by Kylie Ying is to simulate a game of rock-paper-scissors. The target auidence is programmers, or developers.
 
 ## Technologies
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
 
 ## Installation
 1. Download Visual Studio Code, or any Integrated Development and Learning Environment (IDLE).
-2. Check the version of Python you have within Visual Studio Code, or any Integrated Development and Learning Environment (IDLE) on the command line.
+2. Check the version of Python you have within Visual Studio Code, or any Integrated Development and Learning Environment (IDLE) on the command line. Do this to make sure you have the lastest version of Python. 
 ```
 python -V
 ```
