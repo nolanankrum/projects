@@ -1,5 +1,4 @@
 # rock-paper-scissors
-
 The goal of this recreated Python application by Kylie Ying is to simulate a game of rock-paper-scissors. The target auidence is programmers, developers, or anyone in this related field.
 
 ## Technologies
