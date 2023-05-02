@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-The goal of this recreated python application by Kylie Ying is to simulate a game of rock-paper-scissors. The target auidence is programmers, or developers.
+The goal of this recreated Python application by Kylie Ying is to simulate a game of rock-paper-scissors. The target auidence is programmers, developers, or anyone in this related field.
 
 ## Technologies
 [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language.  
@@ -24,7 +24,7 @@ What's your choice? 'r' for rock, 'p' for paper, 's' for scissors
 <sub><sub>Ankrum, Nolan. "userinput."</sub></sub><br/>
 <sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232849870-2d5d3409-c7c9-4a00-8bba-247189f5b81b.png. Accessed 27 Apr. 2023.</sub></sub>
    
-2. You must enter 'r', 'p', or 's' inorder to either tie, win, or lose to the computer. 
+2. You must enter 'r', 'p', or 's' in order to either tie, win, or lose to the computer. 
 ```
 It is a tie. You and the computer have both chosen r.
 ```
@@ -41,7 +41,7 @@ You chose r and the computer chose s. You won!
 You chose j and the computer chose r. You lost
 ```
 ![losingcpu](https://user-images.githubusercontent.com/107952281/232852373-ad23d5cf-b216-4fc5-a1a3-b7e9f51cf09d.png)
-(A side note, the computer is restricted to randomly choose only 'r', 'p', or 's', so you can still lose while entering 'r', 'p', or 's')<br>
+(Note, the computer is restricted to randomly choose only 'r', 'p', or 's', so you can still lose while entering 'r', 'p', or 's')<br>
 <sub><sub>Ankrum, Nolan. "losingcpu."</sub></sub><br/>
 <sub><sub>&emsp; 21 Apr. 2023, https://user-images.githubusercontent.com/107952281/232852373-ad23d5cf-b216-4fc5-a1a3-b7e9f51cf09d.png. Accessed 27 Apr. 2023.</sub></sub>
 ```
@@ -65,5 +65,3 @@ Unfortunately, the computer has won the best of 3 games. Better luck next time!
 * **Nolan Ankrum** - *My work* - [nolanankrum](https://github.com/nolanankrum/)
 * **Kylie Ying** - *Orginal creater* - [kying18](https://github.com/kying18/rock-paper-scissors/blob/master/main.py)
 * **Kylie Ying's YouTube** - *Video over rock-paper-scissors program* - [KylieYYing](https://www.youtube.com/watch?v=CDw3oKV5arA)
-
-(think of this as a works cited page Dr. Hogan. This gives credit to Kylie Ying(orginal creater), and I will also delete this before the finished product)
